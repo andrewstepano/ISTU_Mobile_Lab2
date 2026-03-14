@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ISTU_Mobile_Lab2</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="picture1_title">Hollywood Sign, Los Angeles</string>
+    <string name="picture1_author">Author: Pinterest</string>
+
+    <string name="picture2_title">Coastal area, Los Angeles</string>
+    <string name="picture2_author">Author: Pinterest</string>
+
+    <string name="picture3_title">Mount Lee, Los Angeles</string>
+    <string name="picture3_author">Author: Pinterest</string>
+
+    <string name="picture4_title">Sunset Boulevard, Los Angeles</string>
+    <string name="picture4_author">Author: Pinterest</string>
+
+    <string name="picture5_title">Business center, Los Angeles</string>
+    <string name="picture5_author">Author: Pinterest</string>
+
+</resources>
